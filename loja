@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=11">
 </head>
 
-<button class="classe-botao-abrir-checkout">Realizar pagamento</button>
+<button class="pay-button-getnet">Realizar pagamento</button>
 
 <script async src="https://checkout-homologacao.getnet.com.br/loader.js"
     data-getnet-sellerid="d3e530cb-6c4f-465d-87a2-290db7e701a5"
